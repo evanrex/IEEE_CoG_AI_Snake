@@ -1,5 +1,5 @@
 # IEEE_CoG_AI_Snake
-Codebase for an agent to compete in Codebase for an agent competing in the IEEE CoG AI Snakes competition. U tilizing efficient graph search and navigation techniques, this agent ranked 8th in the finals.
+Codebase for an agent competing in the IEEE CoG AI 2021 Snakes competition. Utilizing efficient graph search and navigation techniques, this agent ranked 8th in the finals.
 
 ## The agent's world view:
 https://github.com/evanrex/IEEE_CoG_AI_Snake/assets/69971103/007b079c-c97f-463f-840d-4c7766a81dfb
